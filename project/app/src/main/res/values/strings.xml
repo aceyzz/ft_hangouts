@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ft_hangouts</string>
+    <string name="prompt_first_name">First Name</string>
+    <string name="prompt_last_name">Last Name</string>
+    <string name="prompt_phone">Phone Number</string>
+    <string name="prompt_email">Email Address</string>
+    <string name="prompt_address">Postal Address</string>
+    <string name="action_save">Save</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_send">Send</string>
+    <string name="action_call">Call</string>
+    <string name="menu_color_title">Change Header Color</string>
+    <string name="color_red">Red</string>
+    <string name="color_green">Green</string>
+    <string name="color_blue">Blue</string>
+    <string name="color_dark">Dark</string>
+    <string name="toast_background_time">App was backgrounded at: %s</string>
+    <string name="hint_message">Type your message…</string>
+    <string name="empty_contacts">No contacts yet.</string>
+    <string name="contact_name_format">%1$s %2$s</string>
+</resources>

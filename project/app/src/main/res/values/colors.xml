@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#1976D2</color>
+    <color name="primaryDarkColor">#004BA0</color>
+    <color name="colorAccent">#4CAF50</color>
+    <color name="textColorPrimary">#212121</color>
+    <color name="textColorSecondary">#757575</color>
+    <color name="backgroundColor">#FFFFFF</color>
+    <color name="cardBackground">#F5F5F5</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+
+    <color name="header_red">#D32F2F</color>
+    <color name="header_green">#388E3C</color>
+    <color name="header_blue">#1976D2</color>
+    <color name="header_dark">#212121</color>
+</resources>
